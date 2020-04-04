@@ -1,4 +1,4 @@
-# FB BOT
+# FB MESSENGER BOT
 
 Facebook automation to send messages to any conatct you want any times you want.
 
